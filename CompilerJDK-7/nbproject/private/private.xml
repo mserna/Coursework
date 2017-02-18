@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/CompilerJDK-7/src/lexer/SourceReader.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/CompilerJDK-7/src/parser/Parser.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/CompilerJDK-7/src/lexer/Token.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/CompilerJDK-7/src/lexer/Tokens.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/CompilerJDK-7/src/lexer/setup/TokenSetup.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/CompilerJDK-7/src/lexer/TokenType.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/CompilerJDK-7/src/simple.x</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/CompilerJDK-7/src/lexer/setup/tokens</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/CompilerJDK-7/src/lexer/Symbol.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/CompilerJDK-7/src/lexer/Lexer.java</file>
+        </group>
+    </open-files>
+</project-private>
