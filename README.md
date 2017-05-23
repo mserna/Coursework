@@ -1,3 +1,3 @@
-# Coursework
+# Java
 
-<p>Projects completed at San Francisco State University</p>
+<p>Java Projects completed at San Francisco State University</p>
