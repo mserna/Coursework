@@ -18,10 +18,8 @@ class PlayingCardException extends Exception {
 }
 
 /** class Card : for creating playing card objects
- *  it is an immutable class.
  *  Rank - valid values are 1 to 13
  *  Suit - valid values are 0 to 3
- *  Do not modify this class!
  */
 class Card {
 
@@ -80,10 +78,6 @@ class Card {
 
 /** class Decks represents : n decks of playing cards
  *  Use class Card to construct n * 52 playing cards!
- *
- *  Do not add new data fields!
- *  Do not modify any methods
- *  You may add private methods 
  */
 class Decks {
 
