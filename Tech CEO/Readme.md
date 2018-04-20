@@ -11,7 +11,7 @@ The rest is up to you, the CEO....
 
 
 Design of Game
-- Use Prototype/Factory Design pattern to label and track all employees in the company (ie. Using Hashmaps)
+- Use Composite/Factory Design pattern to label and track all employees in the company (ie. Using Hashmaps)
 - Task Management will be designed as follows (Possible design will be a Hash of priority queues, but need to mess around with first):
 	- Board gives CEO objectives
 	- CEO must create tasks and delegate them to the team
