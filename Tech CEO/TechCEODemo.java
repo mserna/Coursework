@@ -11,12 +11,12 @@ import java.util.*;
 class TechCEODemo {
 
 	public static void main(String[] args) {
-		TechCEOGame demo;
+		TechCEO demo;
 
 		if(args.length > 0) {
-			demo = new TechCEOGame(Integer.parseInt(args[0]));
+			demo = new TechCEO(Integer.parseInt(args[0]));
 		} else {
-			demo = new TechCEOGame();
+			demo = new TechCEO();
 		}
 
 		demo.play();
