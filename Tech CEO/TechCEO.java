@@ -16,6 +16,5 @@ import java.io.*;
 public class TechCEO {
 
 	Employee CEO = new Employee();
-	// System.out.println("What is your ");
-	// CEO.name = new Scanner
+	// TODO
 }
